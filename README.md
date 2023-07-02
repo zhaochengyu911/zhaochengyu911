@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @zhaochengyu911
-- 👀 I’m interested in computer...
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on a book
-- 📫 How to reach me ...
+hello world!!
 
 <!---
 zhaochengyu911/zhaochengyu911 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
